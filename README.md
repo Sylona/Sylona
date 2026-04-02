@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Sylona
-- 👀 I’m interested in mechatronics
-- 🌱 I’m currently learning C
+- 🌱 Hi, I’m @Sylona
 - 📫 How to reach me samira.johanna@gmail.com
 
 <!---
